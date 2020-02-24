@@ -1,4 +1,4 @@
-# Animal_Shelter_Outcome
+# Animal Shelter Outcome
 MSIS 2802 Python final project
 
 The data comes from Austin Animal Shelter, and I downloaded the csv files from a ![Kaggle challenge](https://www.kaggle.com/c/shelter-animal-outcomes).
