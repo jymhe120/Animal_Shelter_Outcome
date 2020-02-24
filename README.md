@@ -7,3 +7,4 @@ This analysis focuses on finding out what feature/attribute contributes the most
 
 For the notebook please click ![here](https://github.com/jymhe120/Animal_Shelter_Outcome/blob/master/Animal_Shelter_Outcome.ipynb)
 
+Contributors: Jiacheng Hu, Jiaying He, Yingmin Wang
